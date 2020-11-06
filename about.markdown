@@ -7,4 +7,4 @@ My research areas of interest are:
 * Number theory
 
 Contact:
-mohammad.is.mualla@phystech.edu
+<mohammad.is.mualla@phystech.edu>
