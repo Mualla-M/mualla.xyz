@@ -1,0 +1,7 @@
+html { 
+  background: url(https://c4.wallpaperflare.com/wallpaper/962/833/164/mathematics-geometry-simple-white-background-wallpaper-preview.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
