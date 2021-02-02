@@ -1,5 +1,5 @@
 html { 
-  background: https://www.google.com/imgres?imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F962%2F833%2F164%2Fmathematics-geometry-simple-white-background-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fmathematics-geometry-simple-white-background-white-background-wallpaper-pzpnx&tbnid=VsIkA9csaHnMlM&vet=10CJ8BEDMoqAFqFwoTCIDAiO2iy-4CFQAAAAAdAAAAABAC..i&docid=PAA7LDXqjdW-EM&w=728&h=410&q=back%20ground%20%20math%20image&ved=0CJ8BEDMoqAFqFwoTCIDAiO2iy-4CFQAAAAAdAAAAABAC no-repeat center center fixed; 
+  background: url(https://c4.wallpaperflare.com/wallpaper/962/833/164/mathematics-geometry-simple-white-background-wallpaper-preview.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
