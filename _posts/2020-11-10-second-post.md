@@ -1,1 +1,2 @@
-# This is my *sedond* post 
+layout: post
+title:  "About"
