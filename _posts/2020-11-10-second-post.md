@@ -18,4 +18,5 @@ Awards
 
 2012: Basel Assad Merit Award for Distinct Graduate.
 
-Contact: mohammad.is.mualla@phystech.edu
+Contact:
+<mohammad.is.mualla@phystech.edu>
