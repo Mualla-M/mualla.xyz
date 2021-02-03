@@ -1,4 +1,4 @@
-I'm Mohammad Mualla, I'm a phd student in Moscow Institute Of Physics and technology.
+I'm Mohammad Mualla, I'm a phd student in Moscow Institute of Physics and technology.
 
 My research areas of interest are:
  Algebra, Geometry and Number Theory
